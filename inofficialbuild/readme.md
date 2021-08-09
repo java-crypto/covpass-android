@@ -11,8 +11,7 @@ https://play.google.com/store/apps/details?id=de.rki.covpass.checkapp&hl=de&gl=U
 
 The are two changes on the original files:
 
-File: covpass-android\common-app-covpass-check\src\main\res\values
-generated_strings.xml
+File: covpass-android\common-app-covpass-check\src\main\res\values\generated_strings.xml
 
 changed datain line 32 just to show that the app is inofficial: 
 
@@ -22,8 +21,7 @@ to
 
 <string name="validation_start_screen_title">*Inoffical* Übersicht</string>
 
-File: covpass-android\common-app\src\main\res\layout
-fragment_qr_scanner.xml
+File: covpass-android\common-app\src\main\res\layout\fragment_qr_scanner.xml
 
 changed data (**bug**) line 22:
 
